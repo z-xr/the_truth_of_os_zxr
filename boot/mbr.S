@@ -1,0 +1,1 @@
+SECTION MBR vstart=0x7c00
